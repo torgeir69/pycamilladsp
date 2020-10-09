@@ -26,7 +26,7 @@ These are the names of the packages needed:
 Most linux distributions have Python 3.6 or newer installed by default. Use the normal package manager to install the packages.
 
 ### Windows
-Use Anaconda: https://www.anaconda.com/products/individual. Then use Anaconda Navigator to install `websocket_client`.
+Use Anaconda: https://www.anaconda.com/products/individual. Then use Anaconda Navigator to install `websocket-client`.
 
 ### macOS
 On macOS use either Anaconda or Homebrew. The Anaconda procedure is the same as for Windows. 
